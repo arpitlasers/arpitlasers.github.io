@@ -26,7 +26,7 @@ export default function HomePage() {
           <div className="mb-12 flex justify-center">
             <div className="relative">
               <div className="w-48 h-48 rounded-full bg-gradient-to-br from-primary/20 to-primary/5 border-2 border-primary/30 flex items-center justify-center overflow-hidden">
-                <img src="/professional-headshot-of-research-scientist.png" alt="Arpit Singh" className="w-full h-full object-cover" />
+                <img src="/pfp.jpg" alt="Arpit Singh" className="w-full h-full object-cover" />
               </div>
               <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-primary/50 to-purple-500/50 blur-sm -z-10 animate-pulse"></div>
             </div>
@@ -49,7 +49,7 @@ export default function HomePage() {
           </div>
 
           <p className="text-xl md:text-2xl text-muted-foreground mb-4">
-            Ph.D. Research Scholar & Prime Minister Research Fellow
+            Ph.D. Scholar & Prime Minister Research Fellow
           </p>
           <p className="text-lg text-muted-foreground mb-8 max-w-3xl mx-auto">
             Specializing in laser processes, micro-3D printing, and advanced materials for semiconductor applications
@@ -99,7 +99,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             <div className="p-6 rounded-lg bg-card/50 backdrop-blur-sm border border-primary/20 hover:border-primary/40 transition-all hover:scale-105">
-              <div className="text-3xl font-bold text-primary mb-2">15+</div>
+              <div className="text-3xl font-bold text-primary mb-2">8+</div>
               <div className="text-muted-foreground">Publications</div>
             </div>
             <div className="p-6 rounded-lg bg-card/50 backdrop-blur-sm border border-primary/20 hover:border-primary/40 transition-all hover:scale-105">
@@ -107,11 +107,11 @@ export default function HomePage() {
               <div className="text-muted-foreground">Patents</div>
             </div>
             <div className="p-6 rounded-lg bg-card/50 backdrop-blur-sm border border-primary/20 hover:border-primary/40 transition-all hover:scale-105">
-              <div className="text-3xl font-bold text-primary mb-2">10+</div>
+              <div className="text-3xl font-bold text-primary mb-2">3+</div>
               <div className="text-muted-foreground">Awards</div>
             </div>
             <div className="p-6 rounded-lg bg-card/50 backdrop-blur-sm border border-primary/20 hover:border-primary/40 transition-all hover:scale-105">
-              <div className="text-3xl font-bold text-primary mb-2">3+</div>
+              <div className="text-3xl font-bold text-primary mb-2">5+</div>
               <div className="text-muted-foreground">Years Research</div>
             </div>
           </div>
