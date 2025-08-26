@@ -26,7 +26,7 @@ export default function HomePage() {
           <div className="mb-12 flex justify-center">
             <div className="relative">
               <div className="w-48 h-48 rounded-full bg-gradient-to-br from-primary/20 to-primary/5 border-2 border-primary/30 flex items-center justify-center overflow-hidden">
-                <img src="/Arpit.jpg" alt="Arpit Singh" className="w-full h-full object-cover" />
+                <img src="/arpit.jpeg" alt="Arpit Singh" className="w-full h-full object-cover" />
               </div>
               <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-primary/50 to-purple-500/50 blur-sm -z-10 animate-pulse"></div>
             </div>
